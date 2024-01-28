@@ -1,4 +1,4 @@
--- Creating the Course/Proggram table
+-- Creating the Proggram table
 CREATE TABLE Program (
     ProgramID INT PRIMARY KEY,
     Level VARCHAR(255),
